@@ -7,3 +7,7 @@ The coordinate units are not defined and can be whatever the user decides them t
 This algorithm uses dependency injection with guice, multithreading with Executors and SwingWorkers, project object model with Maven and a great visual experience provided by GraphStream.
 
 The GUI was created using Swing, given GraphStream's present incompatibility with JavaFx.
+
+
+
+https://user-images.githubusercontent.com/32436981/217868426-3bf9d973-b0e5-47c4-a1dc-aa2f72925205.mp4
